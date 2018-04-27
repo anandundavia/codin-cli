@@ -4,7 +4,7 @@
     "description": "CLI for Code Investigator CodIn",
     "main": "index.js",
     "bin": {
-        "codein": "./bin/index.js"
+        "codin": "./bin/index.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
